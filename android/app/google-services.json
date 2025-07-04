@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "996056969194",
+    "firebase_url": "https://aset-fde87-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "aset-fde87",
+    "storage_bucket": "aset-fde87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996056969194:android:98aa7612fd964dc3470c93",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_O6oIHlW3sGcZzSHX_bUO8SGGFB8SNnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
